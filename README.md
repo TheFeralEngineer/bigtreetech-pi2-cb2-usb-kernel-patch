@@ -1,4 +1,4 @@
-# bigtreetech-pi2-cb2-usb-kernel-path
+# bigtreetech-pi2-cb2-usb-kernel-patch
 enable all USB drivers to work on various 3D printer boards and devices
  <br > <br >
 To use this file: <br >
