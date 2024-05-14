@@ -6,7 +6,7 @@ As a workaround, you can use GPIO pins 21 and 23 along with a serial UART commun
 To use this file: <br >
 Copy the .tar file to your CB2 using WinSCP
 <br ><br >
-SSH into the CB2/Pi2 and navigate to the folder where you copied them to. <br >
+SSH into the CB2/Pi2 and navigate to the folder where you copied the tar file to. <br >
 `cd ./{kernel-patch-folder}`
 
 Extract the .tar file:<br >
